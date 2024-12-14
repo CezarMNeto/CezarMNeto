@@ -26,6 +26,12 @@ Me chamo Cezar Juventino Martins Neto, tenho 40 anos e sou natural de São Paulo
             src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
             target="_blank">
     </a>
+    <a href = "mailto:cezarmartins84@gmail.com">
+        <img 
+            alt="Contato" 
+            title="Contato" 
+            src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    </a>
 </p>
 
 ---
