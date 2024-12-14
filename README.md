@@ -35,7 +35,8 @@ Me chamo Cezar Juventino Martins Neto, tenho 40 anos e sou natural de São Paulo
     </a>
     <a href="https://www.linkedin.com/in/cezar-martins-neto" target="_blank">
         <img 
-            alt="Contato" 
+            alt="Contato"
+            title="Me siga no Linkedin" 
             src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
             target="_blank">
     </a> 
