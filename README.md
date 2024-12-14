@@ -2,7 +2,7 @@
 
 **`Quality Assurance`**
 
-Me chamo Cezar Juventino Martins Neto, tenho 40 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera. Sou apaixonado por tecnologia e desde meus 16 anos atuo na área, comecei com suporte técnico me especializaei em redes de computadores e me formei em 2012 em Redes de computadores pela universidade nove de julho. Atualmente atuo como QA e busco migrar para o desenvolvimento web.
+Me chamo Cezar Juventino Martins Neto, tenho 40 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera. Sou apaixonado por tecnologia e desde meus 16 anos atuo na área, comecei com suporte técnico me especializei em redes de computadores e me formei em 2012 em Redes de computadores pela universidade nove de julho. Atualmente atuo como QA e busco migrar para o desenvolvimento de software.
 
 <p align="left">
     <a href="https://github.com/CezarMNeto?tab=repositories&sort=stargazers">
