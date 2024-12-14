@@ -19,6 +19,13 @@ Me chamo Cezar Juventino Martins Neto, tenho 40 anos e sou natural de São Paulo
             src="https://custom-icon-badges.demolab.com/github/followers/CezarMNeto?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+        <a href="https://instagram.com/cezarjmartins">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no Instagram" 
+            src="https://custom-icon-badges.demolab.com/instagram/followers/CezarMNeto?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
